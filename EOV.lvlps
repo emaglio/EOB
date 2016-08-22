@@ -1,0 +1,89 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "185,314,644,686"
+
+[AB_Cache_{038F1E47-4F99-407A-9197-F79CECA99EF0}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "4d53cd0a35424e3815641906ae9aff79"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[0][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[0][Path] Line0003 = ".exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[1][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[1][Path] Line0003 = ".aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[2][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[2][Path] Line0003 = ".ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[3][Path] Line0002 = "Nuova cartella/data/lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{3A3A00A7-4991-4E5E-9AA1-A92AB5ECFBD7}"
+Cache_GenGUID[1][String] = "{3A789748-CB29-4364-96FC-2FA76665DD00}"
+Cache_GenGUID[2][String] = "{C8A480EE-440D-4662-9962-D467D06AFB0C}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/N"
+Cache_OutputDir[Path] Line0002 = "uova cartella"
+
+[AB_Cache_{F7288C2C-7334-4CDB-8A35-7E5C986E77E9}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "4d53cd0a35424e3815641906ae9aff79"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[0][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[0][Path] Line0003 = ".exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[1][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[1][Path] Line0003 = ".aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[2][Path] Line0002 = "Nuova cartella/OscillatoryBreathingDetection"
+Cache_GenFile[2][Path] Line0003 = ".ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[3][Path] Line0002 = "Nuova cartella/data/lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{3A3A00A7-4991-4E5E-9AA1-A92AB5ECFBD7}"
+Cache_GenGUID[1][String] = "{3A789748-CB29-4364-96FC-2FA76665DD00}"
+Cache_GenGUID[2][String] = "{C8A480EE-440D-4662-9962-D467D06AFB0C}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/N"
+Cache_OutputDir[Path] Line0002 = "uova cartella"
+
+[AB_Cache_{C3EACDB5-D39D-419B-B818-B8A3DC7B7672}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "f5b216d6f5c762b42046c4d99d910cd2"
+Cache_GenFile_Count[Integer] = 1
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[0][Path] Line0002 = "Ottimizzazione MyLabViewWorks/builds/WebServ"
+Cache_GenFile[0][Path] Line0003 = "er/EOBproject/EOB.lvws"
+Cache_GenGUID_Count[Integer] = 1
+Cache_GenGUID[0][String] = "{1B3060D1-6C78-4AF5-ACF3-507441993B15}"
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/O"
+Cache_OutputDir[Path] Line0002 = "ttimizzazione MyLabViewWorks/builds/WebServer"
+Cache_OutputDir[Path] Line0003 = "/EOBproject"
+
+[AB_Cache_{8677F821-24A2-474A-81A1-0FEBD06D2225}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "f5b216d6f5c762b42046c4d99d910cd2"
+Cache_GenFile_Count[Integer] = 1
+Cache_GenFile[0][Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/"
+Cache_GenFile[0][Path] Line0002 = "Ottimizzazione MyLabViewWorks/builds/WebServ"
+Cache_GenFile[0][Path] Line0003 = "er/EOBproject/EOB.lvws"
+Cache_GenGUID_Count[Integer] = 1
+Cache_GenGUID[0][String] = "{1B3060D1-6C78-4AF5-ACF3-507441993B15}"
+Cache_OutputDir[Path] Line0001 = "/C/Documents and Settings/emanuelem/Desktop/O"
+Cache_OutputDir[Path] Line0002 = "ttimizzazione MyLabViewWorks/builds/WebServer"
+Cache_OutputDir[Path] Line0003 = "/EOBproject"
+
+[AB_Cache_{DF9F835B-4DF5-49BC-BC3A-A7E6BF8100BA}]
+Cache_Path[Path] Line0001 = "/C/Documents and Settings/Emanuele Magliozzi/Local"
+Cache_Path[Path] Line0002 = " Settings/Temp/AB_Cache_{DF9F835B-4DF5-49BC-BC3A-A"
+Cache_Path[Path] Line0003 = "7E6BF8100BA}.txt"
+
+[AB_Cache_{4B1F60CF-7B79-4F23-9BBF-C98305D0CC1D}]
+Cache_Path[Path] Line0001 = "/C/Documents and Settings/Emanuele Magliozzi/Local"
+Cache_Path[Path] Line0002 = " Settings/Temp/AB_Cache_{4B1F60CF-7B79-4F23-9BBF-C"
+Cache_Path[Path] Line0003 = "98305D0CC1D}.txt"
+
