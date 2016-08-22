@@ -25,18 +25,18 @@
 			<Item Name="Subject Controller.lvclass" Type="LVClass" URL="../SYS/Subject Controller_llb/Subject Controller.lvclass"/>
 		</Item>
 		<Item Name="areaCalculation.vi" Type="VI" URL="../SubVI/areaCalculation.vi"/>
-		<Item Name="calculationButton.ctl" Type="VI" URL="../mineControl/calculationButton.ctl"/>
-		<Item Name="Events.ctl" Type="VI" URL="../mineControl/Events.ctl"/>
+		<Item Name="calculationButton.ctl" Type="VI" URL="../myControl/calculationButton.ctl"/>
+		<Item Name="Events.ctl" Type="VI" URL="../myControl/Events.ctl"/>
 		<Item Name="findUserClick.vi" Type="VI" URL="../SubVI/findUserClick.vi"/>
 		<Item Name="importUserPeaks.vi" Type="VI" URL="../SubVI/importUserPeaks.vi"/>
-		<Item Name="LowerCutOff.ctl" Type="VI" URL="../mineControl/LowerCutOff.ctl"/>
+		<Item Name="LowerCutOff.ctl" Type="VI" URL="../myControl/LowerCutOff.ctl"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="main2.vi" Type="VI" URL="../main2.vi"/>
-		<Item Name="Ok.ctl" Type="VI" URL="../mineControl/Ok.ctl"/>
-		<Item Name="State.ctl" Type="VI" URL="../mineControl/State.ctl"/>
+		<Item Name="Ok.ctl" Type="VI" URL="../myControl/Ok.ctl"/>
+		<Item Name="State.ctl" Type="VI" URL="../myControl/State.ctl"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
-		<Item Name="Threshold.ctl" Type="VI" URL="../mineControl/Threshold.ctl"/>
-		<Item Name="Width.ctl" Type="VI" URL="../mineControl/Width.ctl"/>
+		<Item Name="Threshold.ctl" Type="VI" URL="../myControl/Threshold.ctl"/>
+		<Item Name="Width.ctl" Type="VI" URL="../myControl/Width.ctl"/>
 		<Item Name="test2.vi" Type="VI" URL="../test2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
