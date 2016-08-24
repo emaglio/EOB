@@ -121,14 +121,14 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
 			<Item Name="amplitudeOscillation.vi" Type="VI" URL="../SubVI/amplitudeOscillation.vi"/>
-			<Item Name="ChoseFromGraph.ctl" Type="VI" URL="../mineControl/ChoseFromGraph.ctl"/>
+			<Item Name="ChoseFromGraph.ctl" Type="VI" URL="../myControl/ChoseFromGraph.ctl"/>
 			<Item Name="durationOscillation.vi" Type="VI" URL="../SubVI/durationOscillation.vi"/>
 			<Item Name="evenOdd.vi" Type="VI" URL="../SubVI/evenOdd.vi"/>
 			<Item Name="findVales.vi" Type="VI" URL="../SubVI/findVales.vi"/>
 			<Item Name="interpolate.vi" Type="VI" URL="../SubVI/interpolate.vi"/>
 			<Item Name="iToTime.vi" Type="VI" URL="../SubVI/iToTime.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="stopButton.ctl" Type="VI" URL="../mineControl/stopButton.ctl"/>
+			<Item Name="stopButton.ctl" Type="VI" URL="../myControl/stopButton.ctl"/>
 			<Item Name="testMaxMin.vi" Type="VI" URL="../SubVI/testMaxMin.vi"/>
 			<Item Name="upLoadFile.vi" Type="VI" URL="../SubVI/upLoadFile.vi"/>
 			<Item Name="verifyThreshold.vi" Type="VI" URL="../SubVI/verifyThreshold.vi"/>
